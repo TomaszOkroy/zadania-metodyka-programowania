@@ -1,0 +1,14 @@
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\bin\Debug\net8.0\MiejscaZerowe.exe
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\bin\Debug\net8.0\MiejscaZerowe.deps.json
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\bin\Debug\net8.0\MiejscaZerowe.runtimeconfig.json
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\bin\Debug\net8.0\MiejscaZerowe.dll
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\bin\Debug\net8.0\MiejscaZerowe.pdb
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.AssemblyInfo.cs
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.dll
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\refint\MiejscaZerowe.dll
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.pdb
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.genruntimeconfig.cache
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\ref\MiejscaZerowe.dll
