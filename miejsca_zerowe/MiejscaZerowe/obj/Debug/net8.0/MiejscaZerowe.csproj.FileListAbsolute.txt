@@ -12,3 +12,4 @@ C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\
 C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.pdb
 C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.genruntimeconfig.cache
 C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\ref\MiejscaZerowe.dll
+C:\Users\tomas\Desktop\c#projects\miejsca_zerowe\MiejscaZerowe\obj\Debug\net8.0\MiejscaZerowe.sourcelink.json
